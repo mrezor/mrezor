@@ -8,3 +8,9 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 ### Projects 💎
 - Owner | Developer of [MRezorBot](https://discord.com/api/oauth2/authorize?client_id=954292870335053835&permissions=8&scope=bot%20applications.commands), an Discord Bot. (**2022**/**Now**)
 - Resp.Support of [G-Perf.fr](https://g-perf.fr), a host for multiple video games. (**2020**/**Now**)
+
+
+### Skill 🎮
+- Node.js.
+- Spigot API. (**Minecraft**)
+- React.JS (**In training**)
