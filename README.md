@@ -6,4 +6,4 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 
 
 ### Projects 💎
-- MRezorBot, an Discord Bot.
+- MRezorBot, an Discord Bot. (**2022**/**NOW**)
