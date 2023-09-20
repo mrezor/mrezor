@@ -14,3 +14,8 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 - Node.js.
 - Spigot API. (**Minecraft**)
 - React.JS (**In training**)
+
+
+### Contact me 🤝
+- [Discord](https://discord.gg/bNmdvUbfjB)
+- [Twitter](https://twitter.com/MrezorFR)
