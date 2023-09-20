@@ -6,4 +6,5 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 
 
 ### Projects 💎
-- MRezorBot, an Discord Bot. (**2022**/**NOW**)
+- Owner | Developer of MRezorBot, an Discord Bot. (**2022**/**Now**)
+- Resp.Support of G-Perf.fr, a host for multiple video games. (**2020**/**Now**)
