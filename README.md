@@ -12,6 +12,7 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 
 ### Skill 🎮
 - Node.js.
+- Discord.js.
 - Spigot API. (**Minecraft**)
 - React.JS (**In training**)
 
@@ -35,6 +36,7 @@ Dans mes temps libres, je joue au 🏀 basket-ball, aux 🎮 jeux vidéo.
 
 ### Compétence 🎮
 - Node.js.
+- Discord.js.
 - Spigot API. (**Minecraft**)
 - React.JS (**En apprentissage**)
 
