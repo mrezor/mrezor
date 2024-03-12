@@ -20,6 +20,7 @@ In my spare time, I play 🏀 basketball, 🎮 video games.
 - [Discord](https://discord.gg/bNmdvUbfjB)
 - [Twitter](https://twitter.com/MrezorFR)
 - [Steam](https://steamcommunity.com/id/mrezor/)
+- [GitHub](https://github.com/mrezor)
 
 
 ### En français.
@@ -44,3 +45,4 @@ Dans mes temps libres, je joue au 🏀 basket-ball, aux 🎮 jeux vidéo.
 - [Discord](https://discord.gg/bNmdvUbfjB)
 - [Twitter](https://twitter.com/MrezorFR)
 - [Steam](https://steamcommunity.com/id/mrezor/)
+- [GitHub](https://github.com/mrezor)
