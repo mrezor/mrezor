@@ -32,7 +32,7 @@ Dans mes temps libres, je joue au 🏀 basket-ball, aux 🎮 jeux vidéo.
 
 
 ### Projects 💎
-- **Propriétaire** | **Développeur** de [MRezorBot](https://discord.com/api/oauth2/authorize?client_id=954292870335053835&permissions=8&scope=bot%20applications.commands), un bot discord. (**2022**/**Maintenant**)
+- **Propriétaire** | **Développeur** de [MRezorBot](https://discord.com/api/oauth2/authorize?client_id=954292870335053835&permissions=8&scope=bot%20applications.commands), un bot discord. (**2022**/**2024**)
 - **Resp.Support** chez G-Perf. (**2020**/**2024**)
 
 
